@@ -1,0 +1,16 @@
+{
+  "name": "next.js-tutorial",
+  "version": "1.0.0",
+  "description": "A simple example project with Next",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "ClausRT",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
